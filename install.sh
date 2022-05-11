@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export KAFKA_NS=kafka
-/Users/paul.vergilis@konghq.com/workspace/github/deploy-strimzi/kafka
+
 echo "Deploying Kafka - Creating Namespace"
 echo \
 "apiVersion: v1
